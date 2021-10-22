@@ -1,0 +1,13 @@
+{
+  "name": "esbuild-external-source-map",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "esbuild": "0.13.8",
+    "onfetch": "0.2.0",
+    "playwright-fixtures": "0.3.5",
+    "tempy": "^2.0.0"
+  }
+}
